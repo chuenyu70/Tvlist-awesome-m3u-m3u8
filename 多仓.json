@@ -5,7 +5,7 @@
     {
       "name": "TXT",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/chuenyu70/Tvlist-awesome-m3u-m3u8/master/m3u/cmcciptv.m3u8",
+      "url": "https://raw.githubusercontent.com/chuenyu70/Tvlist-awesome-m3u-m3u8/master/m3u/cmcciptv.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
